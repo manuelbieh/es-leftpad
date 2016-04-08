@@ -1,0 +1,25 @@
+{
+  "name": "es-leftpad",
+  "version": "1.0.0",
+  "description": "An ES2015 alternative to left-pad",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelbieh/es-leftpad.git"
+  },
+  "keywords": [
+    "leftpad"
+  ],
+  "author": "Manuel Bieh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manuelbieh/es-leftpad/issues"
+  },
+  "homepage": "https://github.com/manuelbieh/es-leftpad#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
